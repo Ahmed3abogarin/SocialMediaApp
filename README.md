@@ -100,14 +100,13 @@ com.ahmed.instagramclone/
 
 ## 📸 Screenshots
 
+| Home Feed | Reels Video | User Search |
+| :---: | :---: | :---: |
+| <img src="./docs/screenshots/home_screen.png" width="220" alt="Home Feed" /> | <img src="./docs/screenshots/reels_screen.png" width="220" alt="Reels Video" /> | <img src="./docs/screenshots/search_screen.png" width="220" alt="User Search" /> |
 
-|                   Home Feed                    |                 Reels Video                 |                  User Search                  |
-|:----------------------------------------------:|:-------------------------------------------:|:---------------------------------------------:|
-| ![Home Feed](docs/screenshots/home_screen.png) | ![Reels](docs/screenshots/reels_screen.png) | ![Search](docs/screenshots/search_screen.png) |
-
-|                 Explore Screen                  |                      Comments                      |                     Profile                     |
-|:-----------------------------------------------:|:--------------------------------------------------:|:-----------------------------------------------:|
-| ![Explore](docs/screenshots/explore_screen.png) | ![Comments](docs/screenshots/comments_section.png) | ![Profile](docs/screenshots/profile_screen.png) |
+| Explore Screen | Comments | Profile |
+| :---: | :---: | :---: |
+| <img src="./docs/screenshots/explore_screen.png" width="220" alt="Explore Screen" /> | <img src="./docs/screenshots/comments_section.png" width="220" alt="Comments" /> | <img src="./docs/screenshots/profile_screen.png" width="220" alt="Profile" /> |
 
 ---
 
